@@ -23,10 +23,10 @@
     "Mappings": {
         "JeosImages": {
             "Broker": {
-                "Image": "F19-x86_64-openshift-origin-broker-cfntools"
+                "Image": "##changeme-broker"
             },
             "Node": {
-                "Image": "F19-x86_64-openshift-origin-node-cfntools"
+                "Image": "##changeme-node"
             }
         }
     },
